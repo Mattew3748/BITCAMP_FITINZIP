@@ -24,6 +24,8 @@
 ---------
 ### 4. 주요기능
 ![image (3)](https://user-images.githubusercontent.com/73806238/119219575-30aea980-bb21-11eb-8f78-f6e679606b42.png)
+![ㄱㄱㄱㄱ](https://user-images.githubusercontent.com/73806238/119221914-a79d6f80-bb2c-11eb-8eba-f90b3401887c.png)
+![ㄱㄱㄱㄱㄱ](https://user-images.githubusercontent.com/73806238/119221933-c439a780-bb2c-11eb-8dfe-290a66a2df3b.png)
 --------
 ### 5. 사용기술
 ![image (4)](https://user-images.githubusercontent.com/73806238/119219596-49b75a80-bb21-11eb-8198-73da63c0caac.png)
@@ -42,6 +44,8 @@
     *BITCAMP_FITINZIP/FitInZip/src/main/resources/mappings/admin.xml           << DB query
     *BITCAMP_FITINZIP/tree/master/FitInZip/src/main/webapp/WEB-INF/views/admin  << view
         
+![ㄱㄱ](https://user-images.githubusercontent.com/73806238/119221881-7ae95800-bb2c-11eb-962c-5671e6df7736.png)
+
  ### 관리자페이지 시연영상 URL << 아래 경로를 클릭하세요
  https://bit.ly/3ffbU7f
 

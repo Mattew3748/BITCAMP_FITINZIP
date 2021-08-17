@@ -40,7 +40,7 @@ public class AdminController {
 	@Autowired
 	private AdminService adminService;
 	
-	/*다슬*/
+
 	@RequestMapping("/searchMap")
 	public String searchMap(){
 		return "consulting/searchMap";
